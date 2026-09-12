@@ -95,7 +95,7 @@ fraud-radar/
         └── src/                   # Components, custom hooks & real-time views
 
 ---
-
+```
 ## ⚡ Quickstart Guide
 
 ### Prerequisites
@@ -105,7 +105,7 @@ fraud-radar/
 * [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) (`creditcard.csv`)
 
 ---
-```
+
 
 ### Step 1: Clone & Place Dataset
 ```bash
