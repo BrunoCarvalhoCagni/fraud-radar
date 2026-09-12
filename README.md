@@ -105,6 +105,7 @@ fraud-radar/
 * [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) (`creditcard.csv`)
 
 ---
+```
 
 ### Step 1: Clone & Place Dataset
 ```bash
@@ -231,5 +232,3 @@ npm run dev
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
 ```
-
----
