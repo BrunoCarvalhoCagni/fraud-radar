@@ -108,7 +108,7 @@ fraud-radar/
 
 ### Step 1: Clone & Place Dataset
 ```bash
-git clone https://github.com/your-username/fraud-radar.git
+git clone https://github.com/BrunoCarvalhoCagni/fraud-radar.git
 cd fraud-radar
 
 # Download 'creditcard.csv' and place it in the Python data directory:
